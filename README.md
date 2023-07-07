@@ -1,9 +1,9 @@
-## Mohammed Shoaib Uddin 
+## ASLAM ALI   
 
-<h>Software Developer @ Infosys | Osmania University | Backend Developer | Java</h>
+<h>Software Developer | Osmania University | Backend Developer | Java</h>
 
 <h2>Summary</h2>
-<p>Experienced System Engineer with 2 years of expertise in Java, Spring Boot, and MySQL. Proficient in developing robust and scalable back-end applications, actively participating in various stages of the Software Development Life Cycle (SDLC). Skilled in analyzing client requirements, translating them into technical specifications, and delivering business-aligned solutions. Strong troubleshooting and debugging abilities, with a focus on optimizing application performance. Collaborative team player with excellent communication skills.</p>
+<p></p>
 
 <h2>Experience</h2>
 <h3>System Engineer | Infosys</h3>
